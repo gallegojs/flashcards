@@ -1,0 +1,282 @@
+[
+  {
+    "english": "Lawyer",
+    "spanish": "Abogado/a"
+  },
+  {
+    "english": "Actor/Actress",
+    "spanish": "Actor/Actriz"
+  },
+  {
+    "english": "Salesperson / Sales agent",
+    "spanish": "Agente comercial"
+  },
+  {
+    "english": "Housewife / Househusband",
+    "spanish": "Ama de casa / Amo de casa"
+  },
+  {
+    "english": "Entertainer",
+    "spanish": "Animador/a"
+  },
+  {
+    "english": "Architect",
+    "spanish": "Arquitecto/a"
+  },
+  {
+    "english": "Artist",
+    "spanish": "Artista"
+  },
+  {
+    "english": "Astronaut",
+    "spanish": "Astronauta"
+  },
+  {
+    "english": "Athlete",
+    "spanish": "Atleta"
+  },
+  {
+    "english": "Flight attendant",
+    "spanish": "Auxiliar de vuelo"
+  },
+  {
+    "english": "Dancer",
+    "spanish": "Bailarín/a"
+  },
+  {
+    "english": "Barber",
+    "spanish": "Barbero/a"
+  },
+  {
+    "english": "Librarian",
+    "spanish": "Bibliotecario/a"
+  },
+  {
+    "english": "Firefighter",
+    "spanish": "Bombero/a"
+  },
+  {
+    "english": "Embroiderer",
+    "spanish": "Bordador/a"
+  },
+  {
+    "english": "Waiter/Waitress",
+    "spanish": "Camarero/a"
+  },
+  {
+    "english": "Singer",
+    "spanish": "Cantante"
+  },
+  {
+    "english": "Butcher",
+    "spanish": "Carnicero/a"
+  },
+  {
+    "english": "Carpenter",
+    "spanish": "Carpintero/a"
+  },
+  {
+    "english": "Driver",
+    "spanish": "Chófer"
+  },
+  {
+    "english": "Scientist",
+    "spanish": "Científico/a"
+  },
+  {
+    "english": "Surgeon",
+    "spanish": "Cirujano/a"
+  },
+  {
+    "english": "Cook",
+    "spanish": "Cocinero/a"
+  },
+  {
+    "english": "Accountant",
+    "spanish": "Contador/a"
+  },
+  {
+    "english": "Dentist",
+    "spanish": "Dentista"
+  },
+  {
+    "english": "Shop assistant",
+    "spanish": "Dependiente/a"
+  },
+  {
+    "english": "Cartoonist",
+    "spanish": "Dibujante"
+  },
+  {
+    "english": "Dietitian",
+    "spanish": "Dietista"
+  },
+  {
+    "english": "Graphic Designer",
+    "spanish": "Diseñador/a gráfico/a"
+  },
+  {
+    "english": "Economist",
+    "spanish": "Economista"
+  },
+  {
+    "english": "Electrician",
+    "spanish": "Electricista"
+  },
+  {
+    "english": "Housekeeper",
+    "spanish": "Empleado/a del hogar"
+  },
+  {
+    "english": "Nurse",
+    "spanish": "Enfermero/a"
+  },
+  {
+    "english": "Coach",
+    "spanish": "Entrenador/a"
+  },
+  {
+    "english": "Writer",
+    "spanish": "Escritor/a"
+  },
+  {
+    "english": "Pharmacist",
+    "spanish": "Farmacéutico/a"
+  },
+  {
+    "english": "Physiotherapist",
+    "spanish": "Fisioterapeuta"
+  },
+  {
+    "english": "Plumber",
+    "spanish": "Fontanero/a"
+  },
+  {
+    "english": "Photographer",
+    "spanish": "Fotógrafo/a"
+  },
+  {
+    "english": "Geologist",
+    "spanish": "Geólogo/a"
+  },
+  {
+    "english": "Farmer",
+    "spanish": "Granjero/a"
+  },
+  {
+    "english": "Illustrator",
+    "spanish": "Ilustrador/a"
+  },
+  {
+    "english": "Engineer",
+    "spanish": "Ingeniero/a"
+  },
+  {
+    "english": "Gardener",
+    "spanish": "Jardinero/a"
+  },
+  {
+    "english": "Judge",
+    "spanish": "Juez"
+  },
+  {
+    "english": "Cleaner",
+    "spanish": "Limpiador/a"
+  },
+  {
+    "english": "Sailor",
+    "spanish": "Marinero"
+  },
+  {
+    "english": "Mechanic",
+    "spanish": "Mecánico/a"
+  },
+  {
+    "english": "Doctor",
+    "spanish": "Médico"
+  },
+  {
+    "english": "Meteorologist",
+    "spanish": "Meteorólogo/a"
+  },
+  {
+    "english": "Model",
+    "spanish": "Modelo"
+  },
+  {
+    "english": "Musician",
+    "spanish": "Músico/a"
+  },
+  {
+    "english": "Babysitter",
+    "spanish": "Niñero/a, cuidador/a de niños"
+  },
+  {
+    "english": "Baker",
+    "spanish": "Panadero/a"
+  },
+  {
+    "english": "Hairdresser",
+    "spanish": "Peluquero/a"
+  },
+  {
+    "english": "Journalist",
+    "spanish": "Periodista"
+  },
+  {
+    "english": "Fisherman",
+    "spanish": "Pescador"
+  },
+  {
+    "english": "Pilot",
+    "spanish": "Piloto"
+  },
+  {
+    "english": "Police",
+    "spanish": "Policía"
+  },
+  {
+    "english": "TV host",
+    "spanish": "Presentador de televisión"
+  },
+  {
+    "english": "Teacher",
+    "spanish": "Profesor/a, maestro/a"
+  },
+  {
+    "english": "Programmer",
+    "spanish": "Programador"
+  },
+  {
+    "english": "Psychologist",
+    "spanish": "Psicólogo/a"
+  },
+  {
+    "english": "Receptionist",
+    "spanish": "Recepcionista"
+  },
+  {
+    "english": "Tailor",
+    "spanish": "Sastre"
+  },
+  {
+    "english": "Secretary",
+    "spanish": "Secretario/a"
+  },
+  {
+    "english": "Lifeguard",
+    "spanish": "Socorrista"
+  },
+  {
+    "english": "Therapist",
+    "spanish": "Terapeuta"
+  },
+  {
+    "english": "Translator",
+    "spanish": "Traductor/a"
+  },
+  {
+    "english": "Veterinarian",
+    "spanish": "Veterinario/a"
+  }
+]

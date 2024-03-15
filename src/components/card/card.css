@@ -1,0 +1,11 @@
+.card {
+  @apply w-full min-h-40 p-4 text-center [perspective:1000px] cursor-pointer select-none
+}
+
+.card-inner {
+  @apply w-full h-full transition duration-1000 [transform-style:preserve-3d]
+}
+
+.card-content {
+  @apply absolute w-full h-full p-4 border border-gray-50 rounded-lg [backface-visibility:hidden] flex flex-col items-center justify-center gap-4;
+}
