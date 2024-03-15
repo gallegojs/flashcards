@@ -2,7 +2,7 @@
 
 Pequeña aplicación react para estudiar vocabulario mediante "flashcards".
 
-[pending url](#)
+[Flashcards App](https://flashcards-tawny.vercel.app/)
 
 ## Tecnologías usadas.
 
